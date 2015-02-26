@@ -13,7 +13,7 @@
                 <action android:name="com.android.basicsercice"/>
                 <action android:name="android.intent.action.BOOT_COMPLETED" />
             </intent-filter>
-        </receiver>
+        </receiver> 
 
         <service
             android:name=".MyService"
